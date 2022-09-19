@@ -1,0 +1,34 @@
+{
+    "en_US": {
+        "ban.ban.success": "  is banned",
+        "ban.banip.success": " is banned",
+        "ban.list.success": "Done",
+        "ban.unban.error": "not banned",
+        "ban.unban.success": " is unbanned",
+        "cname.rm.notonline": "Player not online!we will only delete the custom name",
+        "cname.rm.success": "Delete success",
+        "cname.set.notonline": "Player not online!we will only save the custom name",
+        "cname.set.null": "Null name",
+        "cname.set.success": "Set success",
+        "gmode.success": "Your game mode is changed",
+        "hreload.success": "Reloaded",
+        "skick.success": " is kicked",
+        "vanish.success": "Successfully opened. When you want to cancel, please join the server again."
+    },
+    "zh_CN": {
+        "ban.ban.success": "  被封禁",
+        "ban.banip.success": " 被封禁",
+        "ban.list.success": "完成",
+        "ban.unban.error": "没有被封禁",
+        "ban.unban.success": " 被解封",
+        "cname.rm.notonline": "玩家不在线！只会删除自定义名称。",
+        "cname.rm.success": "删除成功s",
+        "cname.set.notonline": "玩家不在线！只会保存自定义名称",
+        "cname.set.null": "未知名字",
+        "cname.set.success": "设置成功！",
+        "gmode.success": "成功更改游戏模式",
+        "hreload.success": "重载成功",
+        "skick.success": " 被踢出",
+        "vanish.success": "隐身成功。当你想取消时，请再次加入服务器。"
+    }
+}

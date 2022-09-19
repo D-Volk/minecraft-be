@@ -1,0 +1,12 @@
+{
+    "status": true,
+    "RIL": 300,
+    "Title": [
+        "§l§bFUNCRAFT §7Bedrock"
+    ],
+    "data": [
+        "§gX: §a$posX§7, §gY: §6$posY§7, §gZ: §a$posZ",
+        " ",
+        "§gping: §2$ping ms §7| §gtps: §5$tps"
+    ]
+}

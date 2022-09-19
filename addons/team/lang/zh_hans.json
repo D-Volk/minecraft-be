@@ -1,0 +1,123 @@
+{
+  "translate": {
+    "titleMenu": "菜单",
+    "titleTeamJoin": "队伍邀请",
+    "TeamDissolvePromptAgainTitle": "解散队伍",
+    "TeamQuitPromptAgainTitle": "退出队伍",
+    "titleRemovePl": "删除队员",
+    "titleTeamPermissions": "队伍权限",
+
+    "TeamInviteHint_no": "邀请信息",
+    "TeamInviteHint_Have": "邀请信息(§c${plInviteNum}§r)\n§9您有${plInviteNum}条队伍邀请",
+    "cmdIntroduction": "打开队伍菜单",
+    "noMoneyHint": "您的经济不足以支持您这么做",
+
+    "MenuContent": "${pl} 您还没有队伍!\n\n- 请选择你要进行的操作",
+    "buttonCreateTeam": "创建队伍",
+    "buttonQuit": "退出",
+
+    "headerHint": "您好! ${pl} 职位: ${teamName} §r队长!\n\n- 请选择你要进行的操作",
+    "buttonTeamInfo": "队伍信息",
+    "buttonTeamSetting": "队伍设置\n§9修改队伍的各项权限",
+    "buttonTeamManage": "成员管理\n§9队员邀请,移除,召集",
+    "buttonTeamDissolve": "解散队伍\n§9删除队伍,解散队员",
+
+    "memberHint": "您好! ${pl} 职位: ${teamName} §r队员!\n\n- 请选择你要进行的操作\n- 消息加上 # 前缀可队内语音",
+    "buttonQuitTeam": "退出队伍",
+    "noInviteHint": "您没有收到来自其他队伍的邀请",
+
+    "TeamDissolvePromptAgainContent": "请确认是否删除队伍,删除后将无法恢复",
+    "buttonTeamDissolveYes": "确认删除",
+    "buttonTeamDissolveNo": "我再想想",
+    "TeamDissolveNotic": "队伍已经解散,将会告知在线的队员/离线队员上线时提醒",
+
+    "TeamQuitPromptAgainContent": "请确认是否退出队伍,退出后可以重新被邀请",
+    "buttonTeamQuitYes": "确认退出",
+    "buttonTeamQuitNo": "我再想想",
+    "TeamQuitNotic": "成功退出队伍",
+    "TeamQuitHint": "退出了您的队伍",
+
+    "TeamJoin": "加入选定队伍后邀请列表将清空",
+    "NoThisTeam": "该队伍已被解散/删除,无法加入!",
+    "yesJoinTeam_1": "同意加入了您的队伍!",
+    "yesJoinTeam_2": "您成功加入了队伍",
+
+    "teamInfoHint_1": "队伍名为: ${teamName}§r    队长是: ${teamCreater}",
+    "TeamCreateTime": "队伍创建时间",
+    "TeamColor": "队色是",
+    "TeamID": "队伍唯一标识",
+    "TeamPlShowHint": "当前队伍有 §e${teamAllPlNum}§r 位成员 =>通过滑块查看成员",
+    "hintAdd": "请滑动滑块查看",
+    "TeamPlList": "队伍成员列表",
+    "TeamOnlinePl": "当前所在的队伍有 §e${teamAllPlNum}§r 位成员在线!",
+
+    "TeamPlOperateHint": "请选择要做的成员操作",
+    "TeamPlOperateInvite": "邀请队员",
+    "TeamPlOperateRemove": "移除队员",
+    "TeamNoPl": "您的队伍里没有成员!",
+
+    "NoAction": "无操作",
+    "TeamRemoveHint": "提交后将移除玩家,请谨慎操作",
+    "TeamRemovePlHint": "选择要移除的玩家",
+    "TeamKickHint": "您的队伍 ${TeamName}§r 将你踢出了队伍!",
+
+    "NoPlCanInvite": "服务器没有可邀请的人!",
+    "InvitePlToTeam": "邀请成员进入 ${TeamName}§r 队伍",
+    "currentCanInvite": "当前可邀请玩家",
+    "canotInviteSelf": "您不能邀请您自己,您已有队伍!",
+    "canotInviteSelfTeamPl": "无法邀请!他已经是你的队员了,可在队员管理查看信息",
+    "InvitationExpired_1": "邀请无效,对方已有队伍!请尝试沟通后邀请!",
+    "InvitationExpired_2": "发送失败!对方待同意请求名单中已有您的队伍名单!",
+
+    "TeamWantInviteYou": "队伍想要邀请你成为队员",
+    "TeamWantInviteYou_Yes": "同意入队",
+    "TeamWantInviteYou_Neglect": "忽略邀请",
+
+    "TeamJoinSuccessHint": "您成功加入了队伍",
+    "TeamJoinYesHint": "同意了入伍邀请!",
+    "TeamInvitePlHint": "您成功向 ${invitePl} 发送了入队邀请",
+
+    "TeamPermissionsHint": "请根据您的需要开关权限(全队生效)",
+    "TeamPermissionsHint_PVP": "队伍PVP(开启后才能攻击/被其他队伍攻击)",
+    "TeamPermissionsHint_Chat": "队内频道(开启后队员才能发送队内信息)",
+    "TeamPermissionsHint_Footer": "\n\n- 消息前加上 # 前缀为队内消息\n- 单方面开启PVP只会挨打",
+
+    "TeamDissolveNotic_Join": "您的队伍 ${teamName} §r已被管理员/队长解散",
+
+    "color1": "深蓝色",
+    "color2": "深绿色",
+    "color3": "湖蓝色",
+    "color4": "深红色",
+    "color5": "紫色",
+    "color6": "金色",
+    "color7": "灰色",
+    "color8": "深灰色",
+    "color9": "蓝色",
+    "color0": "黑色",
+    "colorA": "浅绿色",
+    "colorB": "天蓝色",
+    "colorC": "浅红色",
+    "colorD": "浅紫色",
+    "colorE": "浅黄色",
+    "colorF": "白色",
+    "colorG": "硬币金色",
+
+    "TeamCreateReduceEcHint": "你好! ${pl} 请按预设规定填写\n\n- 本次创建将收取 §e${ReduceEc} §r 经济",
+    "TeamNameEnterHint_1": "队伍名称(将作为主要标识)",
+    "TeamNameEnterHint_2": "TeamName(限制${teamNameLength}字)",
+    "TeamColorHint": "队伍颜色",
+    "InvalidTeamName": "您输入的队伍名称不合法(仅支持中,俄,德,法,英,韩,日)",
+    "TeamCreateFail_length": "创建失败!您要创建的队伍名 ${teamName} 字符过长",
+    "TeamCreateFail_exist": "创建失败!您要创建的队伍 ${teamName} 已经存在",
+    "TeamCreateTime_Record": "${timeYear}年${timeMonth}月${timeDay}日",
+    "TeamCreateName_null": "请正确填写队伍的名称(不能为空)",
+    "TeamCreateSuccessHint": "队伍创建成功! \n队伍名称: ${teamName} \n队伍颜色: ${teamColor}§r \n队伍ID: §7${teamID}",
+
+    "attackHint_1": "您不能攻击您的队员",
+    "attackHint_2": "您不能痛击您的队友",
+    "attackHint_pvp": "对方队伍没有开启PVP",
+
+    "TeamChat": "Team队内消息",
+    "noTeamChat": "您的队伍未开启队内聊天"
+  }
+}

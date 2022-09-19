@@ -1,0 +1,11 @@
+{
+    "plugin_setting": {
+        "language": "ru_ru",
+        "theTeamNameLength": 10,
+        "creatTeamRe": 0,
+        "EC": "",
+        "isSettingPVP": false,
+        "ShowNameDisplay": true,
+        "chatShowTeam": true
+    }
+}

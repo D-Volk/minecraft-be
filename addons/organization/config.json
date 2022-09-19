@@ -1,0 +1,10 @@
+{
+    "enableHome": true,
+    "enableWarp": true,
+    "useLLmoney": false,
+    "nameLengthLimit": 8,
+    "enableUserCreate": false,
+    "createPayment": 500000,
+    "moneyScoreboard": "coin",
+    "moneyName": "FunCoin"
+}

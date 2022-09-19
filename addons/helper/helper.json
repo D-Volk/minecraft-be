@@ -1,0 +1,8 @@
+{
+    "force_enable_ability": true,
+    "language": "en_US",
+    "max_chat_length": 200,
+    "no_enderman_take_block": true,
+    "no_explosion": false,
+    "protect_farm_block": true
+}

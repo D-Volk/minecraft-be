@@ -1,0 +1,14 @@
+{
+    "DownloadImg": {
+        "Allow-Member": true
+    },
+    "ImgSize": {
+        "maxFileSize": 1,
+        "maxHeight": 384, // 1 блок = 128 px
+        "maxWidth": 384 // 1 блок = 128 px
+    },
+    "LocalImg": {
+        "Allow-Member": true
+    },
+    "MemberRateLimit": 60
+}
